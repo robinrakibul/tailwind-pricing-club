@@ -1,4 +1,4 @@
-import { ArrowRightIcon, CheckCircleIcon } from '@heroicons/react/solid';
+import { ArrowRightIcon } from '@heroicons/react/solid';
 import React from 'react';
 import Benefit from '../Benefit/Benefit';
 
